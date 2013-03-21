@@ -6,7 +6,7 @@ change profile images for day of week.
 
 * clone this repository
 * save images for day of week
-  Ex) images/mon.jpg (sun, mon, tue, wed, thu, fri, sat)
+  * Ex) images/mon.jpg (sun, mon, tue, wed, thu, fri, sat)
 * set crontab
-  0 0 * * * ruby {script_path}/daily.rb
+  * 0 0 * * * ruby {script_path}/daily.rb
 
